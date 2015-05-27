@@ -1,0 +1,3 @@
+TITLE : Audio Effects Processor
+Developers : Akash R Vasishta, Preetham Kulai, Sumukh Desu
+Description :  This is an implementation of audio effects processor using OMAP 3530 in Mission10X, Wipro Technologies, Bangalore. We also use the on board touch panel for the user interface. The effects produced are echo, tempo, fast forward and slow motion.
